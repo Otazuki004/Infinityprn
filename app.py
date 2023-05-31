@@ -6,7 +6,7 @@ import pymongo
 import requests
 from bs4 import BeautifulSoup
 
-directory_path = "./Videos"
+directory_path = "./Infinityprn/Videos"
 # Replace YOUR_API_ID and YOUR_API_HASH with your own values
 api_id = 2448614
 api_hash = 'c1c1a85c23643876d4ae5c76b20e821f'
