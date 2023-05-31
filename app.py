@@ -13,10 +13,10 @@ api_hash = 'c1c1a85c23643876d4ae5c76b20e821f'
 
 
 tokens = ["6148509956:AAF05cgppFbAM5oZVYjpjqfRtJWTFoQ786Q","5987433096:AAGxrel-GjJb-VryGj3K4GBPn4ZbPL4-c9c","5928285583:AAEK8qamRXuajFrZP3pFOMti-r4VOQ4uhaM"]
-chatid=int(-1001963723798)
+chatid=int(-1819740146)
 
 
-MONGO_URL = "mongodb+srv://nandhaxd:rw5T7YJRjsE3fmk3@cluster0.80igexg.mongodb.net/?retryWrites=true&w=majority"
+MONGO_URL = "mongodb+srv://personaluse:ImCrAzYbOy@personaluse.ounsjuz.mongodb.net/?retryWrites=true&w=majority"
 
 client = pymongo.MongoClient(MONGO_URL)
 db = client["X-HAMSTER-20"]
